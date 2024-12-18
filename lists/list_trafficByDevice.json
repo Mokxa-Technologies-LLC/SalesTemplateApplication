@@ -1,6 +1,11 @@
 {
-    "useSession": "false",
+    "template": {
+        "className": "",
+        "properties": {}
+    },
+    "considerFilterWhenGetTotal": "",
     "showPageSizeSelector": "true",
+    "responsiveMode": "",
     "rowActions": [],
     "columns": [
         {
@@ -14,18 +19,28 @@
             "label": "Percentage"
         }
     ],
-    "pageSize": 0,
+    "cardCollapsible": "",
+    "pageSize": "0",
     "orderBy": "",
-    "filters": [],
-    "pageSizeSelectorOptions": "10,20,30,40,50,100",
-    "buttonPosition": "bothLeft",
+    "description": "",
+    "showDataWhenFilterSet": "",
+    "disableResponsive": "",
     "checkboxPosition": "left",
-    "name": "List - MT #7 - Traffic by Device",
+    "cardCollapseByDefault": "",
     "id": "list_trafficByDevice",
     "binder": {
         "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
         "properties": {"formDefId": "trafficByDevice"}
     },
-    "actions": [],
-    "order": ""
+    "order": "",
+    "useSession": "",
+    "draggabletable": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "hidePageSize": "",
+    "name": "List - (dummy) - Traffic by Device",
+    "rowActionsMode": "",
+    "showhidecolumns": "",
+    "actions": []
 }
