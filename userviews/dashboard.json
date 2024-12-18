@@ -152,62 +152,6 @@
                 "id": "category-0218b0f4-2cb7-474d-acfb-5cf661d87c90",
                 "label": "<i class='fa fa-tasks'><\/i>Manage MT #7 - Traffic by Device"
             }
-        },
-        {
-            "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [{
-                "className": "org.joget.plugin.enterprise.CrudMenu",
-                "properties": {
-                    "list-customFooter": "",
-                    "add-afterSavedRedirectUrl": "",
-                    "edit-customHeader": "",
-                    "editFormId": "ticketsSoldByEvent",
-                    "edit-afterSavedRedirectParamName": "",
-                    "edit-saveButtonLabel": "",
-                    "list-showDeleteButton": "yes",
-                    "list-newButtonLabel": "",
-                    "edit-afterSavedRedirectUrl": "",
-                    "edit-prevButtonLabel": "",
-                    "add-afterSavedRedirectParamName": "",
-                    "customId": "ticketsSoldByEvent_crud",
-                    "edit-afterSaved": "list",
-                    "list-deleteButtonLabel": "",
-                    "checkboxPosition": "left",
-                    "selectionType": "multiple",
-                    "add-customFooter": "",
-                    "addFormId": "ticketsSoldByEvent",
-                    "edit-allowRecordTraveling": "",
-                    "id": "7859bc90-60a3-4d2c-b3ac-b54be336575d",
-                    "rowCount": "true",
-                    "add-messageShowAfterComplete": "",
-                    "edit-readonlyLabel": "",
-                    "list-editLinkLabel": "",
-                    "add-cancelButtonLabel": "",
-                    "edit-afterSavedRedirectParamvalue": "",
-                    "edit-customFooter": "",
-                    "keyName": "",
-                    "label": "Manage (dummy) - Tickets Sold by Event",
-                    "add-customHeader": "",
-                    "edit-lastButtonLabel": "",
-                    "edit-readonly": "",
-                    "buttonPosition": "bothLeft",
-                    "edit-firstButtonLabel": "",
-                    "datalistId": "list_ticketsSoldByEvent",
-                    "add-saveButtonLabel": "",
-                    "edit-nextButtonLabel": "",
-                    "edit-messageShowAfterComplete": "",
-                    "edit-moreActions": [],
-                    "list-moreActions": [],
-                    "add-afterSaved": "list",
-                    "edit-backButtonLabel": "",
-                    "add-afterSavedRedirectParamvalue": "",
-                    "list-customHeader": ""
-                }
-            }],
-            "properties": {
-                "id": "category-2bf20982-76a0-43e0-8ad9-7b1b3504b4c1",
-                "label": "<i class='fa fa-tasks'><\/i>Manage (dummy) - Tickets Sold by Event"
-            }
         }
     ],
     "properties": {
