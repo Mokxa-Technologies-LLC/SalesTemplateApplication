@@ -200,7 +200,7 @@
                                                 "enableOffline": "",
                                                 "title": "Order Statistics",
                                                 "customId": "order_statistics",
-                                                "chartHeight": "200px",
+                                                "chartHeight": "140px",
                                                 "mapping_x": "date",
                                                 "categoryAxisLabel": "Category",
                                                 "enableAnimation": "",
@@ -362,7 +362,7 @@
                                             "header": "<p style=\"font-size:18px\">Quick Links<\/p>",
                                             "id": "2A346719328A4E73433340B6F19C4D21",
                                             "value": "3,291,922",
-                                            "height": "260px"
+                                            "height": "325px"
                                         }
                                     }],
                                     "className": "org.joget.apps.userview.lib.component.ColumnComponent",
