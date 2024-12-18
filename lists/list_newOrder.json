@@ -1,0 +1,46 @@
+{
+    "useSession": "false",
+    "showPageSizeSelector": "true",
+    "rowActions": [],
+    "columns": [
+        {
+            "name": "order_id",
+            "id": "column_0",
+            "label": "Order ID"
+        },
+        {
+            "name": "event",
+            "id": "column_1",
+            "label": "Event"
+        },
+        {
+            "name": "price",
+            "id": "column_2",
+            "label": "Price"
+        },
+        {
+            "name": "qty",
+            "id": "column_3",
+            "label": "Qty."
+        },
+        {
+            "name": "earnings",
+            "id": "column_4",
+            "label": "Earnings"
+        }
+    ],
+    "pageSize": 0,
+    "orderBy": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bothLeft",
+    "checkboxPosition": "left",
+    "name": "List - (dummy) - New Order",
+    "id": "list_newOrder",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "newOrder"}
+    },
+    "actions": [],
+    "order": ""
+}
