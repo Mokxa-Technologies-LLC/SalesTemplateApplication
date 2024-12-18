@@ -84,7 +84,7 @@
             "className": "org.joget.apps.form.lib.WorkflowFormBinder",
             "properties": {}
         },
-        "name": "MT #7 - Traffic by Device",
+        "name": "(dummy) - Traffic by Device",
         "description": "",
         "postProcessorRunOn": "create",
         "permission": {
