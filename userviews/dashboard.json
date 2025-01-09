@@ -341,6 +341,6 @@
             "className": "org.joget.apps.userview.lib.LoggedInUserPermission",
             "properties": {}
         },
-        "userviewName": "Dashboard"
+        "userviewName": "Sales Template"
     }}
 }
